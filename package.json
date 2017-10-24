@@ -1,14 +1,14 @@
 {
-  "name": "react-tween-state",
+  "name": "react-tween-state-fixed",
   "version": "0.1.5",
-  "description": "React animation.",
+  "description": "A fixed version for react-tween-state 0.1.5.",
   "main": "lib/index.js",
   "directories": {
     "examples": "examples"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -p",
+    "build": "webpack",
     "start": "webpack -w -d"
   },
   "repository": {
